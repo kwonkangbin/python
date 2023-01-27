@@ -11,6 +11,5 @@ d = listInList[0][1] #리스트 내 리스트 접근
 print(a)#end=" "시험!!!,슬라이싱 !!!!
 print(b)
 print(c)
-print(d)
 print(a + d, oddnumber[4] * listInList[4]) #숫자 + 숫자 연산 가능
 print(b + c) #문자열 + 문자열: 문자열 합하기
